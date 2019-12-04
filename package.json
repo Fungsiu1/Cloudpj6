@@ -1,0 +1,20 @@
+{
+  "name": "CloudPJ6",
+  "description": "A very simple Node.js app",
+  "author": "Siu Fung Yuen <g1215614@study.ouhk.edu.hk>",
+  "version": "1.0.0",
+  "dependencies": {
+    "cookie-session": "latest",
+    "mongodb": "3.1",
+    "formidable": "latest",
+    "mongoose": "^4.10.8",
+    "express": "*",
+    "nodemon": "^1.19.4",
+    "ejs": "*",
+    "body-parser": "^1.19.0"
+  },
+  "engine": "node >= 0.10.0",
+  "scripts": {
+    "start": "node server"
+  }
+}
